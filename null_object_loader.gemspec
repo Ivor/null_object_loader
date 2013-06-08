@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = NullObjectLoader::VERSION
   spec.authors       = ["Ivor Paul"]
   spec.email         = ["ivorpaul@gmail.com"]
-  spec.description   = "Adds a class method to specify automatically loading a specified Null Object as a response to a class method, on some condition - default => :nil?"
+  spec.description   = "Lets you specify what NullObject to instantiate instead of returning nil for instance methods."
   spec.summary       = "Loading null objects for instance methods."
   spec.homepage      = ""
   spec.license       = "MIT"
