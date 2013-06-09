@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ivorpaul@gmail.com"]
   spec.description   = "Lets you specify what NullObject to instantiate instead of returning nil for instance methods."
   spec.summary       = "Loading null objects for instance methods."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Ivor/null_object_loader"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
